@@ -17,7 +17,6 @@ const Navbar = async () => {
             userId,
         },
     });
-    console.log(stores);
 
     return (
         <div className="border-b">
